@@ -13,7 +13,7 @@ This lab focuses on the following key Java concepts:
 ## 💻 List of Programs
 
 ### 1. `prog1` **Find the Largest Among Three Numbers**
-- **Aim:** Find the largest among 3 user-entered numbers using command-line arguments.
+- **Aim:** Find the largest among 3 user-entered numbers at the command prompt.
 - **Input:** Three integers entered at command prompt.
 - **Output:** Displays the largest number.
 
@@ -24,13 +24,13 @@ This lab focuses on the following key Java concepts:
 
 ### 3. `prog3` **Sort a List of Numbers**
 - **Aim:** Sort user-entered numbers in ascending order.
-- **Input:** List of numbers (entered via Scanner or command line).
+- **Input:** List of numbers.
 - **Output:** Numbers displayed in ascending order.
 
 ### 4. `prog4` **Count Objects Using `static` Modifier**
 - **Aim:** Use a static variable to count the number of objects created from a class.
-- **Input:** Number of objects instantiated in code.
-- **Output:** Total number of objects created.
+- **Input:** Number of objects created.
+- **Output:** Display the number of objects created (e.g. no of objects=3)
 
 ### 5. `prog5` **Count Occurrences of Elements**
 - **Aim:** Find the number of occurrences of each element in a list.
@@ -39,7 +39,7 @@ This lab focuses on the following key Java concepts:
 
 ### 6. `prog6` **Diagonal Sum of 3x3 Matrix**
 - **Aim:** Calculate the sum of left and right diagonals of a user-entered 3x3 matrix.
-- **Input:** 3x3 matrix elements (via Scanner).
+- **Input:** 3x3 matrix elements.
 - **Output:** Left diagonal sum and right diagonal sum.
 
 ---
